@@ -1,6 +1,6 @@
 # Expense Management System
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+The Expense Tracking System is a lightweight yet powerful application designed to help users log, manage, and analyze their daily expenses with ease. It stores all entries in a structured database and provides insightful analytics to better understand spending habits over time. Whether you're keeping track of personal finances or exploring data-driven budgeting, this project offers a clean, efficient, and intuitive foundation to build on.
 
 
 ## Project Structure
@@ -16,8 +16,8 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/Sai-9-data/Expense-Tracking-System.git
+   cd Expense-Tracking-System
    ```
 1. **Install dependencies:**:   
    ```commandline
@@ -30,4 +30,5 @@ This project is an expense management system that consists of a Streamlit fronte
 1. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
+
    ```
